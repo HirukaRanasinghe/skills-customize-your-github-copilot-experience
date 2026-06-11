@@ -84,5 +84,25 @@
         }
       ]
     }
+    ,
+    {
+      "id": "intro-testing-pytest",
+      "title": "Intro to Testing with pytest",
+      "description": "Write unit tests with pytest and set up GitHub Actions to run tests automatically.",
+      "path": "assignments/intro-testing-pytest",
+      "dueDate": "2026-07-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Tests",
+          "file": "tests/test_basic.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }
